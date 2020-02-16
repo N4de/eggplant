@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "eggplant": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "eggplant"
+    }
+  },
+  "defaultProject": "eggplant",
+  "cli": {
+    "analytics": "1d49ea42-b5f6-4cc1-ac76-e1cf43533b57"
+  }
 }
