@@ -1,0 +1,61 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name" : "Beef Stew",
+      "incredients": [
+        {
+            "name": "carrot",
+            "amount": "500g"
+        },
+        {
+          "name": "cucumber",
+          "amount": "565g"
+        },
+        {
+            "name": "milk",
+            "amount": "45ml"
+        }
+      ],
+      "description": "A large stew with beef"
+    },
+    {
+      "id": 2,
+      "name": "Beef Stew",
+      "incredients": [
+        {
+            "name": "carrot",
+            "amount": "500g"
+        },
+        {
+          "name": "cucumber",
+          "amount": "565g"
+        },
+        {
+            "name": "milk",
+            "amount": "45ml"
+        }
+      ],
+      "description": "A large stew with beef"
+    },
+    {
+      "id": 3,
+      "name": "Beef Stew",
+      "incredients": [
+        {
+            "name": "carrot",
+            "amount": "500g"
+        },
+        {
+          "name": "cucumber",
+          "amount": "565g"
+        },
+        {
+            "name": "milk",
+            "amount": "45ml"
+        }
+      ],
+      "description": "A large stew with beef"
+    }
+  ]
+}
